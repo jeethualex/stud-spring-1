@@ -1,1 +1,1 @@
-Test project for study
+Test project for study purpose
